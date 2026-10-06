@@ -1,11 +1,11 @@
-# SPINE IoT Communication Emulator (EEBUS)
+# EEBUS SPINE IoT Communication Emulator
 
 ### Installation
 
-Clone this repository and change directory into it.
+Clone this repository and change directory into folder spice.
 
 ```
-git clone https://github.com/Miele-SmartHome/spice.git
+git clone https://github.com/EEBUServiceGmbH/spice.git
 cd spice
 ```
 
@@ -42,7 +42,6 @@ We use [Conventional Commits](https://www.conventionalcommits.org/en/v1.0.0/).
 ## License
 
 Copyright (c) 2025 Miele & Cie. KG, MIT
-
 Copyright (c) 2018 ApexCharts, MIT (apexhelper-charts.js, supplied in this repo)
 
 This software is released under the MIT License. 
